@@ -10,3 +10,5 @@
 * MultiBlocProvider, a Flutter widget that merges multiple BlocProvider widgets into one
 * BlocConsumer, a Flutter widget that exposes a builder and listener in order to react to new states
 * HydratedBloc to manage and persist state
+
+https://github.com/user-attachments/assets/c5d97cb1-7b59-4cf9-96ca-f14135027c26
